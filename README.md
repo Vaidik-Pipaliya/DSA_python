@@ -61,6 +61,11 @@ Applied learning through practical notebook-based projects:
 
 Feel free to fork this project, submit pull requests, or send suggestions to improve the implementations! Learning is better together. ✨
 
+---
+
+> [!NOTE]
+> 🚧 **More content is coming soon!** I'm continually learning and adding new algorithms, data structures, and mini-projects to this repository. Stay tuned!
+
 <div align="center">
   <i>Happy Coding! 💻</i>
 </div>

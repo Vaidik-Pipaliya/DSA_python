@@ -74,9 +74,14 @@ Feel free to fork this project, submit pull requests, or send suggestions to imp
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/Vaidik-Pipaliya/DSA_python/tree/main/0001-two-sum/) | Easy |
 | [0704-binary-search](https://github.com/Vaidik-Pipaliya/DSA_python/tree/main/0704-binary-search/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0704-binary-search](https://github.com/Vaidik-Pipaliya/DSA_python/tree/main/0704-binary-search/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0001-two-sum](https://github.com/Vaidik-Pipaliya/DSA_python/tree/main/0001-two-sum/) | Easy |
 <!---LeetCode Topics End-->

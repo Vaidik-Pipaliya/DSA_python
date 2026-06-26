@@ -115,6 +115,7 @@ Feel free to fork this project, submit pull requests, or send suggestions to imp
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/Vaidik-Pipaliya/DSA_python/tree/main/0007-reverse-integer/) | Medium |
+| [0009-palindrome-number](https://github.com/Vaidik-Pipaliya/DSA_python/tree/main/0009-palindrome-number/) | Easy |
 <!---LeetCode Topics End-->
 
 <br>

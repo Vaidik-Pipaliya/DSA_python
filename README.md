@@ -84,4 +84,8 @@ Feel free to fork this project, submit pull requests, or send suggestions to imp
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Vaidik-Pipaliya/DSA_python/tree/main/0001-two-sum/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0007-reverse-integer](https://github.com/Vaidik-Pipaliya/DSA_python/tree/main/0007-reverse-integer/) | Medium |
 <!---LeetCode Topics End-->

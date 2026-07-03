@@ -102,6 +102,7 @@ Feel free to fork this project, submit pull requests, or send suggestions to imp
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Vaidik-Pipaliya/DSA_python/tree/main/0001-two-sum/) | Easy |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Vaidik-Pipaliya/DSA_python/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0704-binary-search](https://github.com/Vaidik-Pipaliya/DSA_python/tree/main/0704-binary-search/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Vaidik-Pipaliya/DSA_python/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 ## Binary Search
@@ -130,6 +131,10 @@ Feel free to fork this project, submit pull requests, or send suggestions to imp
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0509-fibonacci-number](https://github.com/Vaidik-Pipaliya/DSA_python/tree/main/0509-fibonacci-number/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Vaidik-Pipaliya/DSA_python/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 <!---LeetCode Topics End-->
 
 <br>

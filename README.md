@@ -103,6 +103,7 @@ Feel free to fork this project, submit pull requests, or send suggestions to imp
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Vaidik-Pipaliya/DSA_python/tree/main/0001-two-sum/) | Easy |
 | [0704-binary-search](https://github.com/Vaidik-Pipaliya/DSA_python/tree/main/0704-binary-search/) | Easy |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/Vaidik-Pipaliya/DSA_python/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |

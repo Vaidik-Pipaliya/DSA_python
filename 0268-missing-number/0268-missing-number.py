@@ -1,6 +1,13 @@
 class Solution(object):
     def missingNumber(self, nums):
         n = len(nums)
-        return (n*(n+1))//2 - sum(nums)
+        dict = {}
+        for i in range (0,n+1):
+            dict[i] = 0
+        for num in nums:
+            dict[num]=1
+        for k,v in dict.items():
+            if v == 0:
+                return k
 
         

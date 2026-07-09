@@ -104,23 +104,27 @@ Feel free to fork this project, submit pull requests, or send suggestions to imp
 | [0001-two-sum](https://github.com/Vaidik-Pipaliya/DSA_python/tree/main/0001-two-sum/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Vaidik-Pipaliya/DSA_python/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0189-rotate-array](https://github.com/Vaidik-Pipaliya/DSA_python/tree/main/0189-rotate-array/) | Medium |
+| [0268-missing-number](https://github.com/Vaidik-Pipaliya/DSA_python/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/Vaidik-Pipaliya/DSA_python/tree/main/0283-move-zeroes/) | Easy |
 | [0704-binary-search](https://github.com/Vaidik-Pipaliya/DSA_python/tree/main/0704-binary-search/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Vaidik-Pipaliya/DSA_python/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0268-missing-number](https://github.com/Vaidik-Pipaliya/DSA_python/tree/main/0268-missing-number/) | Easy |
 | [0704-binary-search](https://github.com/Vaidik-Pipaliya/DSA_python/tree/main/0704-binary-search/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Vaidik-Pipaliya/DSA_python/tree/main/0001-two-sum/) | Easy |
+| [0268-missing-number](https://github.com/Vaidik-Pipaliya/DSA_python/tree/main/0268-missing-number/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/Vaidik-Pipaliya/DSA_python/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/Vaidik-Pipaliya/DSA_python/tree/main/0009-palindrome-number/) | Easy |
 | [0189-rotate-array](https://github.com/Vaidik-Pipaliya/DSA_python/tree/main/0189-rotate-array/) | Medium |
+| [0268-missing-number](https://github.com/Vaidik-Pipaliya/DSA_python/tree/main/0268-missing-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/Vaidik-Pipaliya/DSA_python/tree/main/0509-fibonacci-number/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -140,6 +144,14 @@ Feel free to fork this project, submit pull requests, or send suggestions to imp
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Vaidik-Pipaliya/DSA_python/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0189-rotate-array](https://github.com/Vaidik-Pipaliya/DSA_python/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/Vaidik-Pipaliya/DSA_python/tree/main/0283-move-zeroes/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0268-missing-number](https://github.com/Vaidik-Pipaliya/DSA_python/tree/main/0268-missing-number/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0268-missing-number](https://github.com/Vaidik-Pipaliya/DSA_python/tree/main/0268-missing-number/) | Easy |
 <!---LeetCode Topics End-->
 
 <br>

@@ -104,6 +104,7 @@ Feel free to fork this project, submit pull requests, or send suggestions to imp
 | [0001-two-sum](https://github.com/Vaidik-Pipaliya/DSA_python/tree/main/0001-two-sum/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Vaidik-Pipaliya/DSA_python/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0053-maximum-subarray](https://github.com/Vaidik-Pipaliya/DSA_python/tree/main/0053-maximum-subarray/) | Medium |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Vaidik-Pipaliya/DSA_python/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0189-rotate-array](https://github.com/Vaidik-Pipaliya/DSA_python/tree/main/0189-rotate-array/) | Medium |
 | [0268-missing-number](https://github.com/Vaidik-Pipaliya/DSA_python/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/Vaidik-Pipaliya/DSA_python/tree/main/0283-move-zeroes/) | Easy |
@@ -132,6 +133,7 @@ Feel free to fork this project, submit pull requests, or send suggestions to imp
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/Vaidik-Pipaliya/DSA_python/tree/main/0053-maximum-subarray/) | Medium |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Vaidik-Pipaliya/DSA_python/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0509-fibonacci-number](https://github.com/Vaidik-Pipaliya/DSA_python/tree/main/0509-fibonacci-number/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |

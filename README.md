@@ -111,6 +111,7 @@ Feel free to fork this project, submit pull requests, or send suggestions to imp
 | [0485-max-consecutive-ones](https://github.com/Vaidik-Pipaliya/DSA_python/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0704-binary-search](https://github.com/Vaidik-Pipaliya/DSA_python/tree/main/0704-binary-search/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Vaidik-Pipaliya/DSA_python/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Vaidik-Pipaliya/DSA_python/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -149,6 +150,7 @@ Feel free to fork this project, submit pull requests, or send suggestions to imp
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Vaidik-Pipaliya/DSA_python/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0189-rotate-array](https://github.com/Vaidik-Pipaliya/DSA_python/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/Vaidik-Pipaliya/DSA_python/tree/main/0283-move-zeroes/) | Easy |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Vaidik-Pipaliya/DSA_python/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -161,6 +163,10 @@ Feel free to fork this project, submit pull requests, or send suggestions to imp
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/Vaidik-Pipaliya/DSA_python/tree/main/0053-maximum-subarray/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Vaidik-Pipaliya/DSA_python/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 <!---LeetCode Topics End-->
 
 <br>

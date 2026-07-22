@@ -166,6 +166,7 @@ Feel free to fork this project, submit pull requests, or send suggestions to imp
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Vaidik-Pipaliya/DSA_python/tree/main/06_Leetcode/0001-two-sum/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Vaidik-Pipaliya/DSA_python/tree/main/06_Leetcode/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0048-rotate-image](https://github.com/Vaidik-Pipaliya/DSA_python/tree/main/0048-rotate-image/) | Medium |
 | [0053-maximum-subarray](https://github.com/Vaidik-Pipaliya/DSA_python/tree/main/06_Leetcode/0053-maximum-subarray/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Vaidik-Pipaliya/DSA_python/tree/main/06_Leetcode/0073-set-matrix-zeroes/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vaidik-Pipaliya/DSA_python/tree/main/06_Leetcode/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -180,6 +181,7 @@ Feel free to fork this project, submit pull requests, or send suggestions to imp
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/Vaidik-Pipaliya/DSA_python/tree/main/0048-rotate-image/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Vaidik-Pipaliya/DSA_python/tree/main/06_Leetcode/0073-set-matrix-zeroes/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -198,6 +200,7 @@ Feel free to fork this project, submit pull requests, or send suggestions to imp
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/Vaidik-Pipaliya/DSA_python/tree/main/06_Leetcode/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/Vaidik-Pipaliya/DSA_python/tree/main/06_Leetcode/0009-palindrome-number/) | Easy |
+| [0048-rotate-image](https://github.com/Vaidik-Pipaliya/DSA_python/tree/main/0048-rotate-image/) | Medium |
 | [0189-rotate-array](https://github.com/Vaidik-Pipaliya/DSA_python/tree/main/06_Leetcode/0189-rotate-array/) | Medium |
 | [0268-missing-number](https://github.com/Vaidik-Pipaliya/DSA_python/tree/main/06_Leetcode/0268-missing-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/Vaidik-Pipaliya/DSA_python/tree/main/06_Leetcode/0509-fibonacci-number/) | Easy |

@@ -165,6 +165,7 @@ Feel free to fork this project, submit pull requests, or send suggestions to imp
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Vaidik-Pipaliya/DSA_python/tree/main/06_Leetcode/0001-two-sum/) | Easy |
+| [0015-3sum](https://github.com/Vaidik-Pipaliya/DSA_python/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Vaidik-Pipaliya/DSA_python/tree/main/06_Leetcode/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0048-rotate-image](https://github.com/Vaidik-Pipaliya/DSA_python/tree/main/0048-rotate-image/) | Medium |
 | [0053-maximum-subarray](https://github.com/Vaidik-Pipaliya/DSA_python/tree/main/06_Leetcode/0053-maximum-subarray/) | Medium |
@@ -223,6 +224,7 @@ Feel free to fork this project, submit pull requests, or send suggestions to imp
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/Vaidik-Pipaliya/DSA_python/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Vaidik-Pipaliya/DSA_python/tree/main/06_Leetcode/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0189-rotate-array](https://github.com/Vaidik-Pipaliya/DSA_python/tree/main/06_Leetcode/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/Vaidik-Pipaliya/DSA_python/tree/main/06_Leetcode/0283-move-zeroes/) | Easy |
@@ -234,6 +236,7 @@ Feel free to fork this project, submit pull requests, or send suggestions to imp
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/Vaidik-Pipaliya/DSA_python/tree/main/0015-3sum/) | Medium |
 | [0268-missing-number](https://github.com/Vaidik-Pipaliya/DSA_python/tree/main/06_Leetcode/0268-missing-number/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |

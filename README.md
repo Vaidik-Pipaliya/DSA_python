@@ -168,6 +168,7 @@ Feel free to fork this project, submit pull requests, or send suggestions to imp
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Vaidik-Pipaliya/DSA_python/tree/main/06_Leetcode/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0048-rotate-image](https://github.com/Vaidik-Pipaliya/DSA_python/tree/main/0048-rotate-image/) | Medium |
 | [0053-maximum-subarray](https://github.com/Vaidik-Pipaliya/DSA_python/tree/main/06_Leetcode/0053-maximum-subarray/) | Medium |
+| [0054-spiral-matrix](https://github.com/Vaidik-Pipaliya/DSA_python/tree/main/0054-spiral-matrix/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Vaidik-Pipaliya/DSA_python/tree/main/06_Leetcode/0073-set-matrix-zeroes/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vaidik-Pipaliya/DSA_python/tree/main/06_Leetcode/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/Vaidik-Pipaliya/DSA_python/tree/main/06_Leetcode/0128-longest-consecutive-sequence/) | Medium |
@@ -182,6 +183,7 @@ Feel free to fork this project, submit pull requests, or send suggestions to imp
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/Vaidik-Pipaliya/DSA_python/tree/main/0048-rotate-image/) | Medium |
+| [0054-spiral-matrix](https://github.com/Vaidik-Pipaliya/DSA_python/tree/main/0054-spiral-matrix/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Vaidik-Pipaliya/DSA_python/tree/main/06_Leetcode/0073-set-matrix-zeroes/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -240,6 +242,7 @@ Feel free to fork this project, submit pull requests, or send suggestions to imp
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0054-spiral-matrix](https://github.com/Vaidik-Pipaliya/DSA_python/tree/main/0054-spiral-matrix/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Vaidik-Pipaliya/DSA_python/tree/main/06_Leetcode/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |

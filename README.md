@@ -165,8 +165,12 @@ Feel free to fork this project, submit pull requests, or send suggestions to imp
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Vaidik-Pipaliya/DSA_python/tree/main/06_Leetcode/0001-two-sum/) | Easy |
+| [0015-3sum](https://github.com/Vaidik-Pipaliya/DSA_python/tree/main/0015-3sum/) | Medium |
+| [0018-4sum](https://github.com/Vaidik-Pipaliya/DSA_python/tree/main/0018-4sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Vaidik-Pipaliya/DSA_python/tree/main/06_Leetcode/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0048-rotate-image](https://github.com/Vaidik-Pipaliya/DSA_python/tree/main/0048-rotate-image/) | Medium |
 | [0053-maximum-subarray](https://github.com/Vaidik-Pipaliya/DSA_python/tree/main/06_Leetcode/0053-maximum-subarray/) | Medium |
+| [0054-spiral-matrix](https://github.com/Vaidik-Pipaliya/DSA_python/tree/main/0054-spiral-matrix/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Vaidik-Pipaliya/DSA_python/tree/main/06_Leetcode/0073-set-matrix-zeroes/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vaidik-Pipaliya/DSA_python/tree/main/06_Leetcode/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/Vaidik-Pipaliya/DSA_python/tree/main/06_Leetcode/0128-longest-consecutive-sequence/) | Medium |
@@ -180,6 +184,8 @@ Feel free to fork this project, submit pull requests, or send suggestions to imp
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/Vaidik-Pipaliya/DSA_python/tree/main/0048-rotate-image/) | Medium |
+| [0054-spiral-matrix](https://github.com/Vaidik-Pipaliya/DSA_python/tree/main/0054-spiral-matrix/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Vaidik-Pipaliya/DSA_python/tree/main/06_Leetcode/0073-set-matrix-zeroes/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -198,6 +204,7 @@ Feel free to fork this project, submit pull requests, or send suggestions to imp
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/Vaidik-Pipaliya/DSA_python/tree/main/06_Leetcode/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/Vaidik-Pipaliya/DSA_python/tree/main/06_Leetcode/0009-palindrome-number/) | Easy |
+| [0048-rotate-image](https://github.com/Vaidik-Pipaliya/DSA_python/tree/main/0048-rotate-image/) | Medium |
 | [0189-rotate-array](https://github.com/Vaidik-Pipaliya/DSA_python/tree/main/06_Leetcode/0189-rotate-array/) | Medium |
 | [0268-missing-number](https://github.com/Vaidik-Pipaliya/DSA_python/tree/main/06_Leetcode/0268-missing-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/Vaidik-Pipaliya/DSA_python/tree/main/06_Leetcode/0509-fibonacci-number/) | Easy |
@@ -218,6 +225,8 @@ Feel free to fork this project, submit pull requests, or send suggestions to imp
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/Vaidik-Pipaliya/DSA_python/tree/main/0015-3sum/) | Medium |
+| [0018-4sum](https://github.com/Vaidik-Pipaliya/DSA_python/tree/main/0018-4sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Vaidik-Pipaliya/DSA_python/tree/main/06_Leetcode/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0189-rotate-array](https://github.com/Vaidik-Pipaliya/DSA_python/tree/main/06_Leetcode/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/Vaidik-Pipaliya/DSA_python/tree/main/06_Leetcode/0283-move-zeroes/) | Easy |
@@ -229,6 +238,8 @@ Feel free to fork this project, submit pull requests, or send suggestions to imp
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/Vaidik-Pipaliya/DSA_python/tree/main/0015-3sum/) | Medium |
+| [0018-4sum](https://github.com/Vaidik-Pipaliya/DSA_python/tree/main/0018-4sum/) | Medium |
 | [0268-missing-number](https://github.com/Vaidik-Pipaliya/DSA_python/tree/main/06_Leetcode/0268-missing-number/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -237,6 +248,7 @@ Feel free to fork this project, submit pull requests, or send suggestions to imp
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0054-spiral-matrix](https://github.com/Vaidik-Pipaliya/DSA_python/tree/main/0054-spiral-matrix/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Vaidik-Pipaliya/DSA_python/tree/main/06_Leetcode/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
